@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/cardView.iml" filepath="$PROJECT_DIR$/.idea/modules/cardView.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/cardView.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/cardView.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/cardView.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/cardView.app.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/cardView.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/cardView.app.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/cardView.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/cardView.app.unitTest.iml" />
+    </modules>
+  </component>
+</project>
